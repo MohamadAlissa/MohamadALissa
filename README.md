@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on "Algorithm Selection Automation using Deep Learning"
 - 🌱 I’m currently learning "Reinforcement Learning" and building my skills in "Entrepreneurship"
 - 👯 I’m looking to collaborate on AI-based projects
-- 💬 Ask me about Data Science (machine learning and deep learning)
+- 💬 Ask me about Data Science (Machine Learning & Deep Learning)
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/mohamadalissa/)
 
 
