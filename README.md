@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on "Algorithm Selection Automation using Deep Learning"
-- 🌱 I’m currently learning "Reinforcement Learning" and building my skills in "Entrepreneurship"
-- 👯 I’m looking to collaborate on AI-based projects
-- 💬 Ask me about Data Science (Machine Learning & Deep Learning)
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/mohamadalissa/)
-- ⚡ Have a look at [my website](https://mohamadalissa.github.io/)
+- 🔭 I’m currently working on "Algorithm Selection Automation using Deep Learning".
+- 🌱 I’m currently learning "Reinforcement Learning" and building my skills in "Entrepreneurship".
+- 👯 I’m looking to collaborate on AI-based projects.
+- 💬 Ask me about Data Science (Machine Learning & Deep Learning).
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/mohamadalissa/).
+- ⚡ Have a look at [my website](https://mohamadalissa.github.io/).
 
 <!--
 **MohamadALissa/MohamadALissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
