@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning "Reinforcement Learning" and building my skills in "Entrepreneurship".
 - 👯 I’m looking to collaborate on AI-based projects.
 - 💬 Ask me about Data Science (Machine Learning & Deep Learning).
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/mohamadalissa/).
+- 📫 How to reach me: [my linkedIn](https://www.linkedin.com/in/mohamadalissa/).
 - ⚡ Have a look at [my website](https://mohamadalissa.github.io/).
 
 <!--
