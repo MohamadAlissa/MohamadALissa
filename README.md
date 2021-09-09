@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on "Algorithm Selection Automation using Deep Learning".
+- 🔭 I’m currently working on "Automated Algorithm Selection and Generation using Deep Learning".
 - 🌱 I’m currently learning "Reinforcement Learning" and building my skills in "Entrepreneurship".
 - 👯 I’m looking to collaborate on AI-based projects.
 - 💬 Ask me about Data Science (Machine Learning & Deep Learning).
