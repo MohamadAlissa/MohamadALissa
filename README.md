@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on "Automated Algorithm Selection and Generation using Deep Learning".
+- 🔭 I’m currently working as Data Scientist at Bigtincan.
+- 👍 I just completed my PhD in "Automated Algorithm Selection and Generation using Deep Learning".
 - 🌱 I’m currently learning "Reinforcement Learning" and developing my skills in "Entrepreneurship".
 - 👯 I’m looking to collaborate on AI-based projects.
 - 💬 Ask me about Data Science (Machine Learning & Deep Learning).
