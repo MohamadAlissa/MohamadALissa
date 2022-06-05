@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👍 I just completed my PhD in "Automated Algorithm Selection and Generation using Deep Learning".
-- 🍋 These are my pages: [EasyPeasy Data SCiense](https://www.facebook.com/EasyPeasyDataScience/) and [EasyPeasy Data Sciense for Arabs](https://www.facebook.com/EasyPeasyDataScienceArabic).
+- 🍋 These are my pages: [EasyPeasy Data Sciense](https://www.facebook.com/EasyPeasyDataScience/) and [EasyPeasy Data Sciense for Arabs](https://www.facebook.com/EasyPeasyDataScienceArabic).
 - 🌱 I’m currently learning "Reinforcement Learning" and developing my skills in "Entrepreneurship".
 - 👯 I’m looking to collaborate on AI-based projects.
 - 💬 Ask me about Data Science (Machine Learning & Deep Learning).
